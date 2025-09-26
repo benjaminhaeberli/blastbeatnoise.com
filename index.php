@@ -12,6 +12,20 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@700;800;900&family=Archivo+Narrow:wght@400;500&display=swap" rel="stylesheet">
+
+    <!-- Open Graph / Social Media Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://blastbeatnoise.com">
+    <meta property="og:title" content="Blast Beat Noise - Booking & Promotion">
+    <meta property="og:description" content="Booking and promotion services for extreme music.">
+    <meta property="og:image" content="https://blastbeatnoise.com/assets/hero.jpg">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://blastbeatnoise.com">
+    <meta name="twitter:title" content="Blast Beat Noise - Booking & Promotion">
+    <meta name="twitter:description" content="Booking and promotion services for extreme music.">
+    <meta name="twitter:image" content="https://blastbeatnoise.com/assets/hero.jpg">
     
     <style>
         .font-unbounded {
