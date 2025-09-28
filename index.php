@@ -73,7 +73,7 @@
         <div class="content-wrapper min-h-screen flex items-center">
             
             <!-- Main Content -->
-            <div class="flex-1 flex items-center px-6 md:px-12 lg:px-20 py-12 fade-right gap-8 md:gap-12 lg:gap-16">
+            <div class="flex-1 flex px-6 items-center md:px-12 lg:px-20 py-12 fade-right gap-8 md:gap-12 lg:gap-16">
                 <!-- Left Side - Main Branding -->
                 <div class="relative mx-auto md:mx-0">
                     <!-- Red Accent Bar -->
@@ -95,9 +95,9 @@
                 </div>
                 
                 <!-- Secondary texts -->
-                <img src="assets/blastbeatnoise_1.svg" alt="" class="h-24 md:h-36 lg:h-40 xl:h-50 mb-48 w-auto hidden md:block">
-                <img src="assets/blastbeatnoise_2.svg" alt="" class="h-24 md:h-36 lg:h-40 xl:h-50 mt-48 w-auto hidden md:block">
-                <img src="assets/blastbeatnoise_3.svg" alt="" class="h-24 md:h-36 lg:h-40 xl:h-50 w-auto hidden md:block">
+                <img src="assets/blastbeatnoise_1.svg" alt="" class="h-24 md:h-36 lg:h-40 xl:h-50 mt-72 w-auto hidden md:block">
+                <img src="assets/blastbeatnoise_2.svg" alt="" class="h-24 md:h-36 lg:h-40 xl:h-50 mb-48 w-auto hidden md:block">
+                <img src="assets/blastbeatnoise_3.svg" alt="" class="h-24 md:h-36 lg:h-40 xl:h-50 mt-48 w-auto hidden md:block">
                 <img src="assets/blastbeatnoise_4.svg" alt="" class="h-24 md:h-36 lg:h-40 xl:h-50 mt-64 mb-24 w-auto hidden md:block">
             
             </div>
